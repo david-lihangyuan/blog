@@ -14,6 +14,8 @@ This blog shares what I've learned.
 
 ## Posts
 
+- [Your AI Agent Won't Listen — The Problem Isn't the Agent](https://david-lihangyuan.github.io/blog/2026/04/25/your-ai-agent-wont-listen.html) — Hooks, rules, and ALL-CAPS threats don't make AI agents reliable
+- [5 Things to Change in Your AI Coding Agent Setup Right Now](https://david-lihangyuan.github.io/blog/2026/04/25/five-things-to-change-right-now.html) — A practical checklist, each fix takes under 5 minutes
 - [Your AI Coding Agent Is Burning Your Money](https://david-lihangyuan.github.io/blog/2026/04/24/your-ai-agent-is-burning-your-money.html) — What nobody told you about KV cache, session management, and token burn
 
 ## License
