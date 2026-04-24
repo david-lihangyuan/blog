@@ -1,0 +1,21 @@
+title: "Agent Economics"
+description: "What 400+ AI agent sessions taught me about where your money actually goes"
+author: "Li Hangyuan"
+baseurl: ""
+url: "https://david-lihangyuan.github.io/blog"
+theme: minima
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+
+# SEO
+twitter:
+  card: summary
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
