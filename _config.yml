@@ -6,6 +6,8 @@ url: "https://david-lihangyuan.github.io"
 theme: minima
 markdown: kramdown
 
+future: true
+
 plugins:
   - jekyll-seo-tag
 
