@@ -1,8 +1,8 @@
 title: "Agent Economics"
 description: "What 400+ AI agent sessions taught me about where your money actually goes"
 author: "Li Hangyuan"
-baseurl: ""
-url: "https://david-lihangyuan.github.io/blog"
+baseurl: "/blog"
+url: "https://david-lihangyuan.github.io"
 theme: minima
 markdown: kramdown
 
